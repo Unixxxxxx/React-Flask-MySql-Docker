@@ -4,7 +4,7 @@
 <!--                      HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,50:0d3b4f,100:00d9ff&height=200&section=header&text=Sudhanshu%20Roy&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Bikku%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,50:0d3b4f,100:00d9ff&height=200&section=header&text=Sudhanshu%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                        -->
@@ -39,7 +39,7 @@
 <td width="55%" valign="top">
 
 ```python
-class SudhanshuRoy:
+class SudhanshuSharma:
 
     name       = "Sudhanshu Sharma"
     alias      = "Unixxxxxx"
@@ -87,7 +87,7 @@ class SudhanshuRoy:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-roy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-sharma)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Unixxxxxx)
 
@@ -353,7 +353,7 @@ Auth & Sessions
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu_Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-roy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-Unixxxxxx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unixxxxxx)
 [![Email](https://img.shields.io/badge/Gmail-sudhanshu@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@sudhanshu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudhanshu)
@@ -374,7 +374,7 @@ Auth & Sessions
 
 <div align="center">
 
-![Made with ❤️](https://img.shields.io/badge/Made_with-❤️_by_Bikku-00d9ff?style=flat-square)
+![Made with ❤️](https://img.shields.io/badge/Made_with-❤️_by_Sudhanshu-00d9ff?style=flat-square)
 &nbsp;
 ![Updated](https://img.shields.io/badge/Last_Updated-March_2026-00ffaa?style=flat-square)
 
