@@ -10,7 +10,7 @@
 <!--                    TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🛡️+Cyber+Security+Enthusiast;⚡+Full+Stack+Developer+(React+%2B+Flask);🐍+Python+%7C+Django+%7C+Docker+%7C+DevOps;🔍+SIEM+%7C+ELK+%7C+Wazuh+%7C+Splunk;🚀+Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9B%A1%EF%B8%8F+Cyber+Security+Enthusiast;%E2%9A%A1+Full+Stack+Developer+(React+%2B+Flask);%F0%9F%90%8D+Python+%7C+Django+%7C+Docker+%7C+DevOps;%F0%9F%94%8D+SIEM+%7C+ELK+%7C+Wazuh+%7C+Splunk;%F0%9F%9A%80+Building+Secure+%26+Scalable+Apps" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=header" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+## 👋 &nbsp; About Me
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ class SudhanshuSharma:
 <!--                   TECH STACK SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp; Tech Stack
+## 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 
